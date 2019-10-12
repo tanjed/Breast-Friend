@@ -1,0 +1,22 @@
+
+.wrap-regi100 {
+  width: 700px;
+  background: #fff;
+  border-radius: 3px;
+  overflow: hidden;
+}
+.input100-regi {
+  /*font-family: Raleway-SemiBold;*/
+  font-size: 18px;
+  line-height: 1.2;
+  color: #686868;
+  display: block;
+  width: 100%;
+  background: #e6e6e6;
+  height: 30px;
+  border-radius: 3px;
+  padding:25px;
+}
+
+
+
